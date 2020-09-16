@@ -33,6 +33,10 @@ tasks:
 
 
 environments:
+  install:
+    routes:
+      - nginx: 
+        - drupal.shreddedbacon.com
   9.x:
     routes:
       - nginx:
