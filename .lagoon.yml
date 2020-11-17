@@ -37,6 +37,7 @@ environments:
     routes:
       - nginx: 
         - drupal.shreddedbacon.com
+        - drupal2.shreddedbacon.com
   9.x:
     routes:
       - nginx:
